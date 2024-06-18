@@ -1,1 +1,1 @@
-this contains code
+This Folder contains files for the Cost function lab
